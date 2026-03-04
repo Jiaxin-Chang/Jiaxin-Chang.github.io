@@ -1,8 +1,7 @@
 ---
 layout: single
-title: "Awards"
-permalink: /awards/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
-
 
